@@ -4,13 +4,13 @@ Ce TP met en œuvre un service web SOAP à l’aide de la bibliothèque **Apache
 
 ## 1. Requête FindPerson
 
-![FindPerson](images/1.png)
+![FindPerson](images/1.jpg)
 
 > Cette requête récupère les informations d'une personne (id=20) : âge, id, nom.
 
 ## 2. Requête SayHello
 
-![SayHello](images/2.png)
+![SayHello](images/2.jpg)
 
 > Cette requête retourne un message personnalisé : "Bonjour, oumaima".
 
